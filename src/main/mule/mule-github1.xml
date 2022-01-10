@@ -25,5 +25,6 @@ output application/json
 payload]]></ee:set-payload>
 			</ee:message>
 		</ee:transform>
+		<logger level="INFO" doc:name="Logger" doc:id="c209b11f-6ff8-465c-90a5-c5d8aa0426b4" message="sir has gone to pune"/>
 	</flow>
 </mule>
